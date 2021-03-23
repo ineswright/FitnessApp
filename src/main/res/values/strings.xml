@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Fitness App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">My fitness app</string>
+    <string name="nav_header_subtitle">aka my coursework</string>
+    <string name="home_page">Home page- need to revise design</string>
+    <string name="title_activity_new_workout">Track new workout</string>
+    <string name="title_activity_view_workouts">View Workouts</string>
+    <string name="view_workouts">View workouts :)</string>
+    <string name="title_activity_see_progress">See Progress</string>
+    <string name="see_progress">View your progress :)</string>
+    <string name="title_activity_edit_goals">Edit Goals</string>
+    <string name="title_activity_personal_details">Progress Updates</string>
+    <string name="personal_details">Log your progress</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="bodyweight">Bodyweight</string>
+    <string name="workouts_per_week">Workouts per week</string>
+    <string name="name">Name</string>
+    <string name="addsymboldescription">addsymbol</string>
+    <string name="will_the_database_yell_at_me">Go to initial set up</string>
+    <string name="everything_ran">everything ran :)</string>
+    <string name="date">Date</string>
+    <string name="bodyfat">Bodyfat</string>
+    <string name="title_activity_initial_entry">Initial Set Up</string>
+    <string name="title_activity_view_workout_data">ViewWorkoutDataActivity</string>
+
+</resources>
